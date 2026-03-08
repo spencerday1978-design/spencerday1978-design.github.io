@@ -1,4 +1,4 @@
-# spencerday1978-design.github.io
+
 <script>
     // --- APP DATA STATE ---
     let profile = JSON.parse(localStorage.getItem('fitness_profile')) || { weight: 80, goal: 75, calories: 2000, protein: 160 };
